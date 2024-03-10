@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "foxundermoon.shell-format",
+    "ryanluker.vscode-coverage-gutters",
+    "dbaeumer.vscode-eslint"
+  ]
+}

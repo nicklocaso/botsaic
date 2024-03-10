@@ -1,0 +1,22 @@
+{
+  "name": "bot-kernel",
+  "version": "1.0.0",
+  "description": "A flexible and extensible chatbot core (kernel) designed to handle various events, including messages, commands, and platform-specific interactions.",
+  "main": "./src/index.js",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "bot-kernel",
+    "core"
+  ],
+  "author": "Nicola Lo Caso (https://github.com/nicklocaso)",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "1.20.2",
+    "express": "4.18.3",
+    "mongoose": "8.2.0"
+  },
+  "devDependencies": {
+    "prettier": "3.2.5"
+  }
+}
