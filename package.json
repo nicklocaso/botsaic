@@ -1,13 +1,13 @@
 {
-  "name": "bot-kernel",
+  "name": "botsaic",
   "version": "1.0.0",
-  "description": "A flexible and extensible chatbot core (kernel) designed to handle various events, including messages, commands, and platform-specific interactions.",
+  "description": "A modular and versatile Node.js framework for building chatbots across various messaging platforms.",
   "main": "./src/index.js",
   "scripts": {},
   "keywords": [
     "chatbot",
-    "bot-kernel",
-    "core"
+    "botsaic",
+    "mosaic"
   ],
   "author": "Nicola Lo Caso (https://github.com/nicklocaso)",
   "license": "MIT",
